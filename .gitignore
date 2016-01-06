@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .settings/
 bin/
 .classpath
@@ -7,3 +8,18 @@ m135-red.*.db
 *.iml
 dependency-reduced-pom.xml
 m135-red.log
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.jpg
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> refs/remotes/origin/master
