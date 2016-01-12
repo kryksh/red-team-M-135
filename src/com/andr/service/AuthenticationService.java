@@ -37,6 +37,9 @@ public class AuthenticationService {
         }
     }
 
+    /**
+     * sozdanie soli 
+     */
     private static String generateSalt() {
         SecureRandom random = new SecureRandom();
         byte[] bytes = new byte[32];
